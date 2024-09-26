@@ -120,3 +120,7 @@ function createButtons()
     })
   end
 end
+
+function getKantoLocations()
+  return kantoLocations
+end
